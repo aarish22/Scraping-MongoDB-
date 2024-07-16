@@ -13,3 +13,6 @@ This project is a Scrapy spider designed to scrape book information from [Books 
 - Scrapy
 - pymongo
 - MongoDB Atlas (or any MongoDB instance)
+
+
+## Enter your user name and password
