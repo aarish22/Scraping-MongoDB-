@@ -15,5 +15,5 @@ This project is a Scrapy spider designed to scrape book information from [Books 
 - MongoDB Atlas (or any MongoDB instance)
 
 
-## copy your connection string and paste here
+## Copy your connection string and paste here
 ![Here](https://github.com/aarish22/Scraping-MongoDB-/blob/main/Screenshot%202024-07-16%20183323.png)
